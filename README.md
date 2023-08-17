@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/rawda-linkedin?style=flat-square&logo=Linkedin&logoColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frawda-gastan-82a501173) ![GitHub followers](https://img.shields.io/github/followers/rawdaGastan?label=Follow&style=social)
+![Static Badge](https://img.shields.io/badge/Rawda-linkedin?style=flat-square&logo=Linkedin&logoColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frawda-gastan-82a501173) ![GitHub followers](https://img.shields.io/github/followers/rawdaGastan?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rawdaGastan&color=brightgreen"> 
 
 </div>
