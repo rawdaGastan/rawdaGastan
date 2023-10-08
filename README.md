@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Rawda!
 
-##### A focused and quick-learning Software Engineer looking forward to gain more experience, learn more and see my impact around me.
+A focused and quick-learning Software Engineer looking forward to gain more experience, learn more and see my impact around me.
 
 ## 💁 About me
 - 🔭 I’m currently working for [Codescalers](https://www.linkedin.com/company/codescalers-egypt/)
