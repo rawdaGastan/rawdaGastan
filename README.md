@@ -20,14 +20,30 @@ A focused and quick-learning Software Engineer looking forward to gain more expe
 
 <div align="center">
 
-[![My Skills](https://skills.thijs.gg/icons?i=python,go,java,js,ts,rust,dart,nodejs)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=docker,kubernetes,php,vue,react,svelte,unity,redis)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql,git,grafana,jquery,html,css)](https://skills.thijs.gg)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,java,js,ts,rust,dart,nodejs&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,php,vue,react,svelte,unity,redis&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,grafana,jquery,html,css&perline=8" />
+</p>
 
 </div>
 
 ## 📑 Statistics
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rawdaGastan&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="rawdaGastan" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawdaGastan&langs_count=12&theme=radical&layout=compact" alt="rawdaGastan" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rawdaGastan&theme=radical" alt="rawdaGastan" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rawdaGastan&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawdaGastan&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rawdaGastan&theme=radical&hide_border=true" />
+</p>
